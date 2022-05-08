@@ -1,9 +1,4 @@
 # Optimizing the Climb
-### Contributors: 
-* Jumana Schmidt (jumanas2)
-* David Medina (davidrm3)
-* Roy Lu (roylu2)
-* Will Marshall (wjm5)
 
 ## Deliverables (Also in main branch)
 * [Report](https://docs.google.com/document/d/1k2o9qTrFY8THpSg8V40tUWD97CVE1SHbEtfRH16D10I/edit?usp=sharing)
