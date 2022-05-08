@@ -1,12 +1,7 @@
 # Optimizing the Climb
 
-## Deliverables (Also in main branch)
-* [Report](https://docs.google.com/document/d/1k2o9qTrFY8THpSg8V40tUWD97CVE1SHbEtfRH16D10I/edit?usp=sharing)
-* [Presentation Video](https://www.youtube.com/watch?v=3xf8mlpjxbE&ab_channel=WilliamMarshall)
-* [Presentation Slides](https://docs.google.com/presentation/d/1FTFySXaA5yO_qtD9PHo1kwkYB0B3H1eW/edit?usp=sharing&ouid=102768588260919984611&rtpof=true&sd=true)
-
 ## Overview
-In this project, we intend to find the shortest and most energy efficient path from one point to a specified destination. There are countless reasons as to why this project is not only useful but also extremely practical. Our program will virtually be able to take a black and white image of almost any land-based terrain, a destination, and a starting point, and be able to find the path of shortest distance and least resistance. This program is applicable for hikers, rescuers, GPS, real estate developers, and more. To be able to demonstrate the full ability of our project, we’ll be using a picture of a mountainous terrain as our input, as there is more variation in height. Additionally, we’ll be referring to the person/thing trying to find the best path as the hiker, in our code and our project’s description, but in reality, anyone with any purpose could find use for this program.
+This project, finds the shortest and most energy efficient path from one point to a specified destination. The program takes in almost any black and white image of a land-based terrain, a starting point, and destination. It is applicable for hikers, rescuers, GPS, real estate developers, and more. Included are starting 5 by 5 and 20 by 20 images, but it showcases it working with heightmaps of real mountains, with the 461 by 445 and 700 by 700 images.
 
 ## File description
 Below are some brief descriptions of the files in our codebase.  Function descriptions can be found in the individual files:
