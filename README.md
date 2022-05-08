@@ -5,7 +5,7 @@ This project, finds the shortest and most energy efficient path from one point t
 
 * Not in a bitter way but in a reality way, this was a final project for UIUC's CS 225 course, but I wrote every line of code except for the test files.
 
-## Deliverables (Also in main branch)
+## Deliverables
 * [Report](https://docs.google.com/document/d/1k2o9qTrFY8THpSg8V40tUWD97CVE1SHbEtfRH16D10I/edit?usp=sharing)
 * [Presentation Video](https://www.youtube.com/watch?v=vRzmfvQZMzo)
 * [Presentation Slides](https://docs.google.com/presentation/d/1FTFySXaA5yO_qtD9PHo1kwkYB0B3H1eW/edit?usp=sharing&ouid=102768588260919984611&rtpof=true&sd=true)
