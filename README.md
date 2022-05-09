@@ -3,7 +3,7 @@
 ## Overview
 This project, finds the shortest and most energy efficient path from one point to a specified destination. The program takes in almost any black and white image of a land-based terrain, a starting point, and destination. It is applicable for hikers, rescuers, GPS, real estate developers, and more. Included are starting 5 by 5 and 20 by 20 images, but it showcases it working with heightmaps of real mountains, with the 461 by 445 and 700 by 700 images.
 
-* Not in a bitter way but in a reality way, this was a final project for UIUC's CS 225 course, but I wrote every line of code except for the test files.
+* This was a final project for UIUC's CS 225 course, but I wrote every line of code except for the test files.
 
 ## Deliverables
 * [Report](https://docs.google.com/document/d/1k2o9qTrFY8THpSg8V40tUWD97CVE1SHbEtfRH16D10I/edit?usp=sharing)
