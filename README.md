@@ -4,9 +4,11 @@
 This project, finds the shortest and most energy efficient path from one point to a specified destination. The program takes in almost any black and white image of a land-based terrain, a starting point, and destination. It is applicable for hikers, rescuers, GPS, real estate developers, and more. Included are starting 5 by 5 and 20 by 20 images, but it showcases it working with heightmaps of real mountains, with the 461 by 445 and 700 by 700 images.
 
 * This was a final project for UIUC's CS 225 course. I wrote everything except for the test file, make file, and four 'getter' functions that just access member variables.
+* Example traversal algorithm on 700 by 700 image of a heightmap of a real mountain is shown below:
 
 ![700by700renderfinalexample](https://user-images.githubusercontent.com/105015076/173387504-6fb7fa18-b588-4c72-b308-80e119fbbdc2.png)
 
+(starting point is at 0,0 and ending where red line finishes)
 
 ## Deliverables
 * [Report](https://docs.google.com/document/d/1k2o9qTrFY8THpSg8V40tUWD97CVE1SHbEtfRH16D10I/edit?usp=sharing)
